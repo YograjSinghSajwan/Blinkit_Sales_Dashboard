@@ -12,3 +12,5 @@ Tech Stack Microsoft Power BI Power Query (Data Cleaning & Transformation) DAX (
 **Data Source Kaggle-**
  Blinkit Sales Dataset The dataset includes information related to product details, outlet size and type, item visibility, sales values, ratings, and establishment year. Features Overview of total sales, average sales, ratings, and number of items Year-wise outlet establishment trend analysis Sales distribution by item type and fat content Performance comparison across outlet sizes and locations Detailed outlet-type-wise sales and rating analysis Interactive filter panel for outlet location, outlet size, and item type.
 
+Screenshot of the Data Visualised 
+https://github.com/YograjSinghSajwan/Blinkit_Sales_Dashboard/blob/main/BlinkitSales%20Dashboard%20in%20Rupees.png
